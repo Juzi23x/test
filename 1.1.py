@@ -117,6 +117,8 @@ if __name__ == "__main__":
     else:
         export_txt(danmus, r"D:\弹幕数据\danmu.txt")
 
+    print("HELLO")
+
 
 
 
